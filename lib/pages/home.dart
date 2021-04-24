@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_icons/flutter_icons.dart';
 import 'package:socialapp_uikit/post/create_post.dart';
 import 'package:socialapp_uikit/widgets/posts.dart';
 import 'package:socialapp_uikit/widgets/stories.dart';
@@ -20,7 +21,7 @@ class _HomeState extends State<Home> {
         ),
         actions: [
           IconButton(
-            icon: Icon(Icons.search),
+            icon: Icon(Feather.search),
             onPressed: () {},
           )
         ],

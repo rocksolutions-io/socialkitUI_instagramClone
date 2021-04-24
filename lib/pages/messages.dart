@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_icons/flutter_icons.dart';
 import 'package:socialapp_uikit/utils/data.dart';
 
 class Messages extends StatefulWidget {
@@ -21,7 +22,7 @@ class _MessagesState extends State<Messages> {
         actions: <Widget>[
           IconButton(
             icon: Icon(
-              Icons.search,
+              Feather.search,
             ),
             onPressed: () {},
           ),
