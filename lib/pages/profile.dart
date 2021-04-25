@@ -23,7 +23,7 @@ class _ProfileState extends State<Profile> {
         shrinkWrap: true,
         children: [
           Container(
-            height: MediaQuery.of(context).size.height / 3.3,
+            height: MediaQuery.of(context).size.height / 3.6,
             width: MediaQuery.of(context).size.width,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
@@ -83,9 +83,9 @@ class _ProfileState extends State<Profile> {
                                     child: Text(
                                       'Following',
                                       style: TextStyle(
-                                        fontSize: 14.0,
+                                        fontSize: 12.0,
                                         color: Colors.white,
-                                        fontWeight: FontWeight.w900,
+                                        fontWeight: FontWeight.bold,
                                       ),
                                     ),
                                   ),
