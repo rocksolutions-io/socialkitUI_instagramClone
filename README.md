@@ -12,9 +12,9 @@ Star⭐ the repo if you like what you see😉.
 
 ## Screenshots
 <p>
-<img src="ss/1.jpg" width="350"/> <img src="ss/7.jpg" width="350"/>
-<img src="ss/4.jpg" width="350"> <img src="ss/3.jpg" width="350">
-<img src="ss/6.jpg" width="350"> <img src="ss/2.jpg" width="350">
+<img src="ss/1.jpg" width="300"/> <img src="ss/7.jpg" width="300"/>
+<img src="ss/4.jpg" width="300"> <img src="ss/3.jpg" width="300">
+<img src="ss/6.jpg" width="300"> <img src="ss/2.jpg" width="300">
 </p>
 
 ## 🤓 Author(s)
